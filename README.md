@@ -29,4 +29,3 @@ python digit_gui.py
 - The model uses the `sklearn.datasets.load_digits` dataset and a KNN classifier.
 
 ## Author
-Divya Nimbalkar
