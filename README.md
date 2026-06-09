@@ -28,4 +28,4 @@ python digit_gui.py
 - The first run trains and caches a local model file named `digit_gui_model.joblib`.
 - The model uses the `sklearn.datasets.load_digits` dataset and a KNN classifier.
 
-## Author
+
